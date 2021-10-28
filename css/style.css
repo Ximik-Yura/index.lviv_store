@@ -72,6 +72,7 @@
   text-decoration: none;
 }
 .shoping-counter {
+  position: relative;
   right: 0;
   bottom: 0;
   background-color: #ffaf19;
@@ -81,4 +82,6 @@
   display: block;
   padding: 5px;
   border-radius: 50%;
+  margin-top: 40px;
+  margin-left: -20px;
 }
